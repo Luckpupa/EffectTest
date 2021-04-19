@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 61ceb734d627c904c88f5c59b40676eb
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Flame_ave: {fileID: 2800000, guid: 9f0f44cf243664443850d34462e5553f, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,347 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.3f1 (76626098c1c4) revision 7758432'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.928; Version 2009; 64bit' Language: 'ko' Physical Memory: 16324 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Users/tresp/Desktop/_/Effect_lecture/EffectTest/Effect_Study
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50072
+Successfully changed project path to: D:/Users/tresp/Desktop/_/Effect_lecture/EffectTest/Effect_Study
+D:/Users/tresp/Desktop/_/Effect_lecture/EffectTest/Effect_Study
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 156.13 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.3f1 (76626098c1c4)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Users/tresp/Desktop/_/Effect_lecture/EffectTest/Effect_Study/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon (TM) R9 390 Series (ID=0x67b1)
+    Vendor:   
+    VRAM:     8168 MB
+    Driver:   27.20.14527.2002
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Property (_MainTex) already exists. Use SetTexture instead.
+
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56752
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.008274 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 166.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.777 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004041 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 224.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.185 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Property (_MainTex) already exists. Use SetTexture instead.
+
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.15 seconds
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3089 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 171.7 MB.
+System memory in use after: 169.1 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 3501.
+Total: 5.085300 ms (FindLiveObjects: 0.375600 ms CreateObjectMapping: 0.375700 ms MarkObjects: 2.650400 ms  DeleteObjects: 1.682100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Game/Assets/VisualEffects/Dummy/Effect_Soul_trail01.png
+  artifactKey: Guid(eb96dd011ea437044bf38952f3f5f35a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Assets/VisualEffects/Dummy/Effect_Soul_trail01.png using Guid(eb96dd011ea437044bf38952f3f5f35a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81edb956e2d3878e5ad8fa82efe24fe7') in 0.246706 seconds
+  Import took 0.261497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/Game/Assets/VisualEffects/Dummy/S_Effect_Soul.mat
+  artifactKey: Guid(1af9a6b2e6b746e42aa56d947ef82062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Assets/VisualEffects/Dummy/S_Effect_Soul.mat using Guid(1af9a6b2e6b746e42aa56d947ef82062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0eaddc7cefd059e0cd17d930c79ab798') in 0.458965 seconds
+  Import took 0.466759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Game/Assets/VisualEffects/Dummy/Effect_Soul_Attack_Alphatest01.png
+  artifactKey: Guid(0644cb781c17238449abeb24f3e62633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Assets/VisualEffects/Dummy/Effect_Soul_Attack_Alphatest01.png using Guid(0644cb781c17238449abeb24f3e62633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7698db971a5535b75da79bf37fea1c4') in 0.022953 seconds
+  Import took 0.029681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Game/Assets/VisualEffects/Dummy/Floor.mat
+  artifactKey: Guid(4db76fe4d2ecc0d408a4a2f857224d35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Assets/VisualEffects/Dummy/Floor.mat using Guid(4db76fe4d2ecc0d408a4a2f857224d35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5330d794ca34cc7fecac4a62909cebf5') in 0.047583 seconds
+  Import took 0.054783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.688415 seconds.
+  path: Assets/Game/Assets/VisualEffects/Dummy/PC_SoulAttackTest01.png
+  artifactKey: Guid(c97f943d7a1c4b54a8dfe91f5d1166a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Assets/VisualEffects/Dummy/PC_SoulAttackTest01.png using Guid(c97f943d7a1c4b54a8dfe91f5d1166a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '039fbcc85ea8bc683924a9cf87fd10e4') in 0.015392 seconds
+  Import took 0.026291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016554 seconds.
+  path: Assets/Game/Assets/VisualEffects/Dummy/PC_SoulAttackTest01.png
+  artifactKey: Guid(c97f943d7a1c4b54a8dfe91f5d1166a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Assets/VisualEffects/Dummy/PC_SoulAttackTest01.png using Guid(c97f943d7a1c4b54a8dfe91f5d1166a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '039fbcc85ea8bc683924a9cf87fd10e4') in 0.021486 seconds
+  Import took 0.029438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.140536 seconds.
+  path: Assets/Game/Assets/VisualEffects/Dummy/M_Effect_Soul_attack.mat
+  artifactKey: Guid(e79cbb69943fd03408c631ec81cc0ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Assets/VisualEffects/Dummy/M_Effect_Soul_attack.mat using Guid(e79cbb69943fd03408c631ec81cc0ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27370943e572a5e9904fd6fe446c310f') in 0.026796 seconds
+  Import took 0.037121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.786986 seconds.
+  path: Assets/Game/Assets/VisualEffects/Dummy/S_Effect_Soul.shader
+  artifactKey: Guid(61ceb734d627c904c88f5c59b40676eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Assets/VisualEffects/Dummy/S_Effect_Soul.shader using Guid(61ceb734d627c904c88f5c59b40676eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb5f371f10b0ce4c85245072575aa519') in 0.008040 seconds
+  Import took 0.016536 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002055 seconds.
+  path: Assets/Game/Assets/VisualEffects/Dummy/S_Effect_Soul.shader
+  artifactKey: Guid(61ceb734d627c904c88f5c59b40676eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Assets/VisualEffects/Dummy/S_Effect_Soul.shader using Guid(61ceb734d627c904c88f5c59b40676eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb5f371f10b0ce4c85245072575aa519') in 0.005311 seconds
+  Import took 0.015682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.506716 seconds.
+  path: Assets/Game/Assets/VisualEffects/Shader/M_Effect_Blood_Test.mat
+  artifactKey: Guid(5ad6055eb45a388479f8003697bc23a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Assets/VisualEffects/Shader/M_Effect_Blood_Test.mat using Guid(5ad6055eb45a388479f8003697bc23a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9905d51c39f40a459da78f7a4468f40f') in 1.290287 seconds
+  Import took 1.304019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Game/Assets/VisualEffects/Shader/S_Effect_Pc_Attack.shader
+  artifactKey: Guid(5aea507e441d8d24fa818268bbf3da91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Assets/VisualEffects/Shader/S_Effect_Pc_Attack.shader using Guid(5aea507e441d8d24fa818268bbf3da91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83b45445621826f6cf78f739db97ce1a') in 0.012754 seconds
+  Import took 0.024678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.344743 seconds.
+  path: Assets/Game/Assets/VisualEffects/Shader/S_Effect_Blood.shader
+  artifactKey: Guid(c9ea9bbb874bc1446a50fbf7900ed057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Assets/VisualEffects/Shader/S_Effect_Blood.shader using Guid(c9ea9bbb874bc1446a50fbf7900ed057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b474c47943b0132f9b5f6ae3c4e624e7') in 0.024800 seconds
+  Import took 0.032438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.593181 seconds.
+  path: Assets/Game/Assets/VisualEffects/Shader/S_Effect_Blood.shader
+  artifactKey: Guid(c9ea9bbb874bc1446a50fbf7900ed057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Assets/VisualEffects/Shader/S_Effect_Blood.shader using Guid(c9ea9bbb874bc1446a50fbf7900ed057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b474c47943b0132f9b5f6ae3c4e624e7') in 0.002465 seconds
+  Import took 0.011199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.902251 seconds.
+  path: Assets/Game/Assets/VisualEffects/Shader/Pc/S_Sword_Distortion.shadergraph
+  artifactKey: Guid(df628dd226338d7419358b8bff74bea2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Assets/VisualEffects/Shader/Pc/S_Sword_Distortion.shadergraph using Guid(df628dd226338d7419358b8bff74bea2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ef0655b850796d9b6631208a84d5ccd') in 0.016345 seconds
+  Import took 0.023632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.280387 seconds.
+  path: Assets/Game/Assets/VisualEffects/Shader/Pc/S_Sword_Distortion.shadergraph
+  artifactKey: Guid(df628dd226338d7419358b8bff74bea2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Assets/VisualEffects/Shader/Pc/S_Sword_Distortion.shadergraph using Guid(df628dd226338d7419358b8bff74bea2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ef0655b850796d9b6631208a84d5ccd') in 0.004546 seconds
+  Import took 0.013032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.279258 seconds.
+  path: Assets/Game/Assets/VisualEffects/Shader/Pc/S_Pc_PatternOn.shadergraph
+  artifactKey: Guid(215f0c886045f7c4587d3a1c3fd99e9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Assets/VisualEffects/Shader/Pc/S_Pc_PatternOn.shadergraph using Guid(215f0c886045f7c4587d3a1c3fd99e9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddded6efb0a82a8a7e012e2dc1c61c80') in 0.008997 seconds
+  Import took 0.015868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.841899 seconds.
+  path: Assets/Game/Assets/VisualEffects/Shader/Pc/S_Pc_PatternOn.shadergraph
+  artifactKey: Guid(215f0c886045f7c4587d3a1c3fd99e9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Assets/VisualEffects/Shader/Pc/S_Pc_PatternOn.shadergraph using Guid(215f0c886045f7c4587d3a1c3fd99e9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddded6efb0a82a8a7e012e2dc1c61c80') in 0.004499 seconds
+  Import took 0.011762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.218001 seconds.
+  path: Assets/Game/Assets/VisualEffects/Shader/S_Dust.shader
+  artifactKey: Guid(05f6d316d664263458871f68315befa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Assets/VisualEffects/Shader/S_Dust.shader using Guid(05f6d316d664263458871f68315befa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aae36fe7d7ba02018c848d1b8020a5c7') in 0.008134 seconds
+  Import took 0.013343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.532142 seconds.
+  path: Assets/Game/Assets/VisualEffects/Shader/S_Dust.shader
+  artifactKey: Guid(05f6d316d664263458871f68315befa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Assets/VisualEffects/Shader/S_Dust.shader using Guid(05f6d316d664263458871f68315befa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aae36fe7d7ba02018c848d1b8020a5c7') in 0.005337 seconds
+  Import took 0.014137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.442690 seconds.
+  path: Assets/Game/Assets/VisualEffects/Shader/S_Blood.shader
+  artifactKey: Guid(c9abab884b5615d4a88a68f63e271aba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Assets/VisualEffects/Shader/S_Blood.shader using Guid(c9abab884b5615d4a88a68f63e271aba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a18a76adc28bca33db1bc9272958b15b') in 0.012531 seconds
+  Import took 0.025091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.706974 seconds.
+  path: Assets/Game/Assets/VisualEffects/Shader/S_Blood.shader
+  artifactKey: Guid(c9abab884b5615d4a88a68f63e271aba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Assets/VisualEffects/Shader/S_Blood.shader using Guid(c9abab884b5615d4a88a68f63e271aba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a18a76adc28bca33db1bc9272958b15b') in 0.002843 seconds
+  Import took 0.019891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.844910 seconds.
+  path: Assets/Game/Assets/VisualEffects/Shader/S_Effect_Pc_Attack 1.shader
+  artifactKey: Guid(f3008a2f012667a4d8d4b4ca8339abc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Assets/VisualEffects/Shader/S_Effect_Pc_Attack 1.shader using Guid(f3008a2f012667a4d8d4b4ca8339abc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab8d4153e861c15dc3b9a92ef587552e') in 0.027265 seconds
+  Import took 0.058070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.724195 seconds.
+  path: Assets/Game/Assets/VisualEffects/Shader/S_Effect_Pc_Soul_Attack.shader
+  artifactKey: Guid(f3008a2f012667a4d8d4b4ca8339abc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Assets/VisualEffects/Shader/S_Effect_Pc_Soul_Attack.shader using Guid(f3008a2f012667a4d8d4b4ca8339abc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ab8802f2c61e0df5155f3b6debdb08e') in 0.074409 seconds
+  Import took 0.084237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.168963 seconds.
+  path: Assets/Game/Assets/VisualEffects/Dummy/PC_SoulAttackTest01.png
+  artifactKey: Guid(c97f943d7a1c4b54a8dfe91f5d1166a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Assets/VisualEffects/Dummy/PC_SoulAttackTest01.png using Guid(c97f943d7a1c4b54a8dfe91f5d1166a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fdf3dbead81608d67a3fdc019c469a4') in 0.017882 seconds
+  Import took 0.025914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 255.552021 seconds.
+  path: Assets/Game/Assets/VisualEffects/Dummy/M_Effect_Soul_attack.mat
+  artifactKey: Guid(e79cbb69943fd03408c631ec81cc0ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Assets/VisualEffects/Dummy/M_Effect_Soul_attack.mat using Guid(e79cbb69943fd03408c631ec81cc0ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd58f15aa13a212bfe5d170820eda452') in 0.026797 seconds
+  Import took 0.033435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013699 seconds.
+  path: Assets/Game/Assets/VisualEffects/Dummy/M_Effect_Soul_attack.mat
+  artifactKey: Guid(e79cbb69943fd03408c631ec81cc0ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Assets/VisualEffects/Dummy/M_Effect_Soul_attack.mat using Guid(e79cbb69943fd03408c631ec81cc0ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd58f15aa13a212bfe5d170820eda452') in 0.033486 seconds
+  Import took 0.041269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.194320 seconds.
+  path: Assets/Game/Assets/VisualEffects/Texture/Smoke Textures/Smoke 006_use/smoke_006_6x6.png
+  artifactKey: Guid(8cd158caf27e87545a67fc27ffa1aeb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Assets/VisualEffects/Texture/Smoke Textures/Smoke 006_use/smoke_006_6x6.png using Guid(8cd158caf27e87545a67fc27ffa1aeb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f35cdc740378f4b249a3fe51122cce1d') in 0.045245 seconds
+  Import took 0.062878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Game/Assets/VisualEffects/Texture/Smoke Textures/Smoke 005_use/smoke_005_6x6.png
+  artifactKey: Guid(d49a3820eb9992a4998ba5ea40aca8ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Assets/VisualEffects/Texture/Smoke Textures/Smoke 005_use/smoke_005_6x6.png using Guid(d49a3820eb9992a4998ba5ea40aca8ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '703b71edd111ee193f2f9d2d66f8b583') in 0.037057 seconds
+  Import took 0.043241 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Game/Assets/VisualEffects/Texture/ASSETS_ISOMETRIC_2.5D/FOOTAGES/SMOKE_01/smoke_00006.png
+  artifactKey: Guid(f4e2f48d75e471745a5e3aed2bfb987d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Assets/VisualEffects/Texture/ASSETS_ISOMETRIC_2.5D/FOOTAGES/SMOKE_01/smoke_00006.png using Guid(f4e2f48d75e471745a5e3aed2bfb987d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9007a226eadcfa89e233b06c02e030fc') in 0.046268 seconds
+  Import took 0.061063 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006120 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.253 seconds
+Platform modules already initialized, skipping
+Property (_MainTex) already exists. Use SetTexture instead.
+
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2795 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.0 MB.
+System memory in use after: 149.5 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 3584.
+Total: 10.175200 ms (FindLiveObjects: 0.475600 ms CreateObjectMapping: 0.246900 ms MarkObjects: 6.591100 ms  DeleteObjects: 2.860300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 296.953158 seconds.
+  path: Assets/Game/Assets/VisualEffects/Dummy/M_Effect_Soul_attack.mat
+  artifactKey: Guid(e79cbb69943fd03408c631ec81cc0ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Assets/VisualEffects/Dummy/M_Effect_Soul_attack.mat using Guid(e79cbb69943fd03408c631ec81cc0ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23198e96931588ce1061cdba624dfecb') in 0.377594 seconds
+  Import took 0.386186 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
