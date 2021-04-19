@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_PC_hair
+  m_Shader: {fileID: -6465566751694194690, guid: 17450afc53d6ce8439f6b4eb63d64a49, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_C60676AC:
+        m_Texture: {fileID: 2800000, guid: 3aa81197422ae264d964799073e4faba, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_61EE7A6E_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 3aa81197422ae264d964799073e4faba, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_8FDB7854_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 9a7d2808ab2ab93488d575074fde06c5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_A039AE14_Texture_1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_C1F25027_Texture_1:
+        m_Texture: {fileID: 2800000, guid: b90ba01daafb20a49851c1d28a3d4ab8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_C4609474_Texture_1:
+        m_Texture: {fileID: 2800000, guid: f8ac4ee5b828c73408b7edfbc199f705, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_D258F109_Texture_1:
+        m_Texture: {fileID: 2800000, guid: f8ac4ee5b828c73408b7edfbc199f705, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_E0B5F5C0_Texture_1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_E7C56BF0_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 3aa81197422ae264d964799073e4faba, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _T_Albedo:
+        m_Texture: {fileID: 2800000, guid: be09a44667857b64db71d472fa26bccd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _T_Emission:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _T_MSO:
+        m_Texture: {fileID: 2800000, guid: ea530c403fec0e44baaab42f16a92e24, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _T_Normal:
+        m_Texture: {fileID: 2800000, guid: 7973040a31f778242bee8a1a365a9e11, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _T_Other:
+        m_Texture: {fileID: 2800000, guid: ea530c403fec0e44baaab42f16a92e24, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Albedo_Lightness: 1.2
+    - _Emission: 0
+    - _Smoothness: 1
+    m_Colors: []
+  m_BuildTextureStacks: []

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c9abab884b5615d4a88a68f63e271aba
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _BloodNoise: {fileID: 2800000, guid: 2ea569a800e2fba42a2ca76727f232ed, type: 3}
+  - _Noise_T: {fileID: 2800000, guid: f9bc1d804bb0a9842a1770bf905d52b5, type: 3}
+  - _alpha112: {fileID: 2800000, guid: d9def507e994da74f8e76c9ea891ed66, type: 3}
+  - _TextureSample0: {fileID: 2800000, guid: 9474360d944058c4383b2dfe9ebddc9a, type: 3}
+  - _BloodWay: {fileID: 2800000, guid: bfd7e640b9c10ad48a2d56782ce2adf2, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
