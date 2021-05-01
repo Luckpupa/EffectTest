@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637544245351036593
-    m_Hash: 196100330
+      ticks: 637551288311440891
+    m_Hash: 2267878940
   m_LockFileStatus:
     m_FilePath: D:/Users/tresp/Desktop/_/Effect_lecture/EffectTest/Effect_Study/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637544245351036593
-    m_Hash: 786352941
+      ticks: 637551288312461048
+    m_Hash: 2883902894
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -160,6 +160,7 @@ m_PackageAssets:
         - 3.0.3
         - 3.0.4
         - 3.0.5
+        - 3.0.6
         compatible:
         - 1.0.2
         - 1.0.6
@@ -184,6 +185,7 @@ m_PackageAssets:
         - 3.0.3
         - 3.0.4
         - 3.0.5
+        - 3.0.6
         verified: 2.0.7
       dependencies:
       - name: com.unity.test-framework
@@ -425,6 +427,7 @@ m_PackageAssets:
         - 10.3.1
         - 10.3.2
         - 10.4.0
+        - 10.5.0
         compatible:
         - 10.4.0
         verified: 10.4.0
@@ -642,6 +645,7 @@ m_PackageAssets:
         - 1.5.3
         - 1.5.4
         - 1.5.5
+        - 1.5.6
         - 2.0.0
         - 2.0.1-preview.1
         - 2.0.1
@@ -662,6 +666,7 @@ m_PackageAssets:
         - 2.1.3
         - 2.1.4
         - 2.1.5
+        - 2.1.6
         - 3.0.0-preview.1
         - 3.0.0-preview.3
         - 3.0.0-preview.4
@@ -678,12 +683,14 @@ m_PackageAssets:
         - 3.0.3
         - 3.0.4
         - 3.0.5
+        - 3.0.6
         compatible:
         - 3.0.1
         - 3.0.3
         - 3.0.4
         - 3.0.5
-        verified: 3.0.5
+        - 3.0.6
+        verified: 3.0.6
       dependencies:
       - name: com.unity.ugui
         version: 1.0.0
@@ -720,12 +727,12 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/com.unity.textmeshpro.git
         revision: e2f8dffb26de9a130d5b2140d83891d9a7825330
         path: 
-    - packageId: com.unity.timeline@1.4.6
+    - packageId: com.unity.timeline@1.4.7
       testable: 0
       isDirectDependency: 1
-      version: 1.4.6
+      version: 1.4.7
       source: 1
-      resolvedPath: D:\Users\tresp\Desktop\_\Effect_lecture\EffectTest\Effect_Study\Library\PackageCache\com.unity.timeline@1.4.6
+      resolvedPath: D:\Users\tresp\Desktop\_\Effect_lecture\EffectTest\Effect_Study\Library\PackageCache\com.unity.timeline@1.4.7
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -852,13 +859,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637463150940000000
+      datePublishedTicks: 637516874380000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.timeline.git
-        revision: 2fe55e5d14362cc4fdcc886f56dbfe518298e4a5
+        revision: 66f96ddbbc76f565093e1e5e5d3d322d28acc7d7
         path: 
     - packageId: com.unity.ugui@1.0.0
       testable: 0
@@ -2914,6 +2921,7 @@ m_PackageAssets:
         - 10.3.1
         - 10.3.2
         - 10.4.0
+        - 10.5.0
         compatible:
         - 10.4.0
         verified: 10.4.0
@@ -3058,6 +3066,7 @@ m_PackageAssets:
         - 10.3.1
         - 10.3.2
         - 10.4.0
+        - 10.5.0
         compatible:
         - 10.4.0
         verified: 10.4.0

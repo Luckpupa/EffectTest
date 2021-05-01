@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_Effect_Soul_Attack
+  m_Shader: {fileID: 4800000, guid: 5aea507e441d8d24fa818268bbf3da91, type: 3}
+  m_ShaderKeywords: _DISSOLVEON_ON _OPCATIY_ON _PARTICLETILINGXON_ON _RANDOM_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Alpha:
+        m_Texture: {fileID: 2800000, guid: 73cf94a05ea1a434980fcfe125aaab01, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SlashMainTexture:
+        m_Texture: {fileID: 2800000, guid: c97f943d7a1c4b54a8dfe91f5d1166a3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: 062a80988960887418e5012f93950597, type: 3}
+        m_Scale: {x: 1, y: 0.9}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 0, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AlphaCutoff: 0.5
+    - _Dissolve: 0
+    - _DissolveOn: 1
+    - _Intensity: 8
+    - _Intensity1: 3
+    - _Light00: 0.438
+    - _Noise01: 0
+    - _NoiseScale: 0.618
+    - _Opacity: 1
+    - _Opcatiy: 1
+    - _ParticleTileOn: 0
+    - _ParticleTilingXOn: 1
+    - _Particle_Disolve_On: 0
+    - _Point_Intensity: 3
+    - _Random: 1
+    - _TTTTTTT: 0
+    - _ToggleSwitch0: 0
+    - _tttttt: 0.4022059
+    m_Colors:
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _MainColor: {r: 0, g: 0, b: 0, a: 0}
+    - _Offset: {r: 0, g: 0, b: 0, a: 0}
+    - _PointColor: {r: 2, g: 0, b: 0, a: 0}
+    - _Slash_Tile: {r: 1, g: 1, b: 0, a: 0}
+    - _UpColor: {r: 1, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
