@@ -730,12 +730,7 @@ Animator:
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
-  m_WarningMessage: "\nBinding warning: Some generic clip(s) animate transforms that
-    are already bound by a Humanoid avatar. These transforms can only be changed
-    by Humanoid clips.\n\tTransform 'Bip001 Neck'\n\tTransform 'Bip001 L Finger1'\n\tTransform
-    'Bip001 R Foot'\n\tTransform 'Bip001 R Finger22'\n\tTransform 'Bip001 R Hand'\n\tTransform
-    'Bip001 L Finger22'\n\tTransform 'Bip001 L Toe0'\n\tTransform 'Bip001 R Finger01'\n\tTransform
-    'Bip001 L Finger01'\n\tTransform 'Bip001 Spine1'\n\tand more ..."
+  m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
@@ -892,6 +887,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Effect_RushAttack
       objectReference: {fileID: 0}
+    - target: {fileID: 7371889283238448927, guid: 426ec620bfaa382448f399135d6c94fb, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 426ec620bfaa382448f399135d6c94fb, type: 3}
 --- !u!1001 &822931086830593861
@@ -901,6 +900,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 697926866349429013, guid: 47e5fcabb9b076848a0beb5ea5bf7ffb, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4b963661ff30bb44cb43409db4141e79, type: 2}
     - target: {fileID: 823341941562078745, guid: 47e5fcabb9b076848a0beb5ea5bf7ffb, type: 3}
       propertyPath: m_Name
       value: Effect_Pc_soul_attack
@@ -1006,6 +1009,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3348827159078549286, guid: 07d79bfbd16815749b30b5a1eed1022d, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d8dd0d5748d583847b0bc18d7beae77e, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 07d79bfbd16815749b30b5a1eed1022d, type: 3}
 --- !u!1001 &3506527383106705023
